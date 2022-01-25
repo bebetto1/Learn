@@ -12,3 +12,5 @@ node -v
 npm run build
 4.команда на старт
 npm run start
+
+для настройки дебага смотри https://code.visualstudio.com/docs/typescript/typescript-debugginggit 

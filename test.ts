@@ -25,6 +25,7 @@ callCommand('test2command', bigObject);
 callCommand('test122command', bigObject);
 callCommand('test3command', bigObject);
 callCommand('test4command', bigObject);
+callCommand('test5command', bigObject);
 
 
 

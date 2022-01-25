@@ -1,0 +1,16 @@
+{
+    "name": "test-typescript",
+    "version": "1.0.0",
+    "description": "",
+    "main": "test.ts",
+    "scripts": {
+        "start": "node ./dist/test.js",
+        "build": "tsc --project tsconfig.json"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "events": "^3.3.0"
+    }
+}
